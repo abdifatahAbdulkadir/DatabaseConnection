@@ -3,7 +3,7 @@ package com.company;
 import java.sql.*;
 
 public class DBConnect {
-    String url = "jdbc:mysql://127.0.0.1:3306/football?useSSL=false&user=root&password=yasiin98&serverTimezone=UTC";
+    String url = "jdbc:mysql://127.0.0.1:3306/football?useSSL=false&user=***&password=****&serverTimezone=UTC";
     private Connection cn;
     private Statement st;
     private ResultSet rs;
